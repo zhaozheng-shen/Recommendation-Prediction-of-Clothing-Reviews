@@ -1,4 +1,7 @@
 # Recommendation Prediction of Clothing Reviews
+Machine Learning Final Project, University of Pennsylvania
 
-Used seven traditional ML methods and two deep models for this supervised binary classification problem. Compared each model based on ROC curves and visualized results in the final report.
+Used seven traditional ML methods and two deep models for this supervised binary classification problem. 
+
+Compared each model based on ROC curves and visualized results in the final report.
 
